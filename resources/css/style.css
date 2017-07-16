@@ -24,8 +24,12 @@ a
 }
 .pic {
   background-image: url("../images/the-flatiron-building.png");
+  background-position: center;
 }
 .footer {
   font-size: 11px;
   background-color: Dimgray;
+}
+a {
+  font-size: 18px;
 }
