@@ -17,19 +17,20 @@ h2,
 h3 {
   font-weight: bold;
 }
-.pic,
-a,
-.footer {
-  color: White;
+a {
+  font-size: 18px;
 }
 .pic {
   background-image: url("../images/the-flatiron-building.png");
   background-position: center;
 }
-.footer {
+.small {
   font-size: 11px;
   background-color: Dimgray;
+  text-align: left;
 }
-a {
-  font-size: 18px;
+.pic,
+a,
+.small {
+  color: White;
 }
